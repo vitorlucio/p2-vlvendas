@@ -1,0 +1,7 @@
+spring:
+  jpa:
+    open-in-view: 'false'
+  profiles:
+    active: test
+server:
+  port: '8093'
